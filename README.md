@@ -2,7 +2,7 @@
 
 ## Description
 
-The hello rails back end is created to help me lean how to integrate rails back end code that will be used by a front end react app
+The hello rails back end is created to help me learn how to integrate rails back end code that will be used by a front end react app
 
 
 ![screenshot](./screenshot.png)
@@ -11,7 +11,6 @@ The hello rails back end is created to help me lean how to integrate rails back 
 
 - Ruby
 - Ruby on Rails
-- back end
 
 ## Getting Started
 
