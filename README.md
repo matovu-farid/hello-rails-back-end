@@ -24,12 +24,12 @@ rails s
 ```
 
 ## Front end
-This is a link to the fontend github (project)[https://github.com/matovu-farid/hello-react-front-end]
+This is a link to the fontend github [project](https://github.com/matovu-farid/hello-react-front-end)
 ```
 https://github.com/matovu-farid/hello-react-front-end
 ```
 
-This (pull request)[https://github.com/matovu-farid/hello-react-front-end/pull/1]
+This [pull request](https://github.com/matovu-farid/hello-react-front-end/pull/1)
 shows the changes to the react from end
 ```
 https://github.com/matovu-farid/hello-react-front-end/pull/1
